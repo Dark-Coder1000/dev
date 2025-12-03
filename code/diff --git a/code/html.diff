@@ -1,0 +1,16 @@
+diff --git a/code/html.html b/code/html.html
+new file mode 100644
+--- /dev/null
++++ b/code/html.html
+@@ -0,0 +1,10 @@
++<html>
++    <link rel="stylesheet" href="css.css">
++    <body>
++        <main>
++            <h1>Hello, This Is A Test</h1>
++            <h2>How is everyone doing?</h2>
++            <script src="js.js"></script>
++        </main>
++    </body>
++</html>
+\ No newline at end of file
